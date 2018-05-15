@@ -1,4 +1,4 @@
-package br.com.odaguiri.servlet;
+package br.com.odaguiri.web;
 
 import java.net.URI;
 import java.net.URISyntaxException;
