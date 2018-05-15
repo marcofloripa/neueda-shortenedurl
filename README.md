@@ -2,7 +2,7 @@
 
 This Spring Boot project is responsible for handling the requests for the Shortened Urls
 
-# Running the app
+### Running the app
 
 ```
 mvn spring-boot:run
